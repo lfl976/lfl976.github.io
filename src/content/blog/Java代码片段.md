@@ -1,5 +1,5 @@
 ---
-title: "Java 单例模式，工厂模式，延迟初始化，异常处理，Builder 模式"
+title: "Java 代码片段"
 description: "Java 单例模式，工厂模式，延迟初始化，异常处理，Builder 模式"
 pubDate: "Jul 08 2022"
 heroImage: "/blog-placeholder-3.jpg"
